@@ -163,7 +163,7 @@ const Discover = () => {
           searchPlace(data.description);
         }}
           query={{
-            key: "AIzaSyC_8XFbSDxQPUjTO3_grlJ_QGg9MP3hoHA",
+            key: "Insira Aqui sua chave da API",
             language: "pt-BR",
           }}
         />
